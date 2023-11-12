@@ -1,0 +1,24 @@
+@font-face {
+    font-family: "Poppins";
+    src: url("../Fonts/Poppins/Poppins-Black.ttf");
+}
+
+body{
+    height: 100vh;
+    position: absolute;
+    background-image: url(../Pictures/photo-1637846959991-18e54d6e2035.avif);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+
+header {
+    font-family: "Poppins";
+    text-transform: uppercase;
+    position: absolute;
+    text-align: right;
+    top: 50px;
+    left: 1100px
+}
